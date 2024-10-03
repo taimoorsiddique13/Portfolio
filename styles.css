@@ -11,10 +11,6 @@ header {
   width: 408px;
 }
 
-.main {
-  width: 430px;
-}
-
 nav {
   display: flex;
   justify-content: space-between;
