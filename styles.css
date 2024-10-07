@@ -286,7 +286,6 @@ p {
   color: #acb7c3;
 }
 
-
 /* Media query for larger screens */
 @media (min-width: 768px) {
   .headline {
