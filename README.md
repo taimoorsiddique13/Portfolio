@@ -24,8 +24,6 @@ This is a portfolio project developed during my Web Technologies course. The pro
 ### Screenshot 5
 ![Screenshot of portfolio project](./screenshot5.png)
 
-### Screenshot 6
-![Screenshot of portfolio project](./screenshot6.png)
 
 ## How to Use
 
