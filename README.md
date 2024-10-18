@@ -2,6 +2,8 @@
 
 This is a portfolio project developed during my Web Technologies course. The project consists of HTML and CSS only and showcases various design and layout techniques to create a responsive portfolio website.
 
+[Click this link to view Live demo of the Portfolio] (https://taimoorsiddique13.github.io/Portfolio/)
+
 ## Features
 - **Responsive Design:** The portfolio adapts to different screen sizes, providing an optimal viewing experience on both desktop and mobile devices.
 - **HTML & CSS:** This project is built using fundamental web technologies without any JavaScript or frameworks.
