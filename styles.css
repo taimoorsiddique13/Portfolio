@@ -220,9 +220,6 @@ p {
   background-color: white;
   padding: 114px 24px;
   border-top-right-radius: 80px;
-  display: block;
-
-  /* Change from flex to block for mobile */
 }
 
 .about-header {
@@ -470,6 +467,10 @@ p {
     display: none;
   }
 
+  .languages-section {
+    margin-top: 0;
+  }
+
   .desktop-menu {
     display: flex;
     gap: 32px;
@@ -516,13 +517,34 @@ p {
     gap: 24px;
   }
 
-  .about-header,
+  .about-header {
+    flex: 1;
+  }
+
   .about-content {
     flex: 1;
+    background: #f7f7f9;
+    border-radius: 8px;
+    padding: 24px;
   }
 
   .contact-me {
     padding: 142px 50px 45px;
+  }
+
+  .languages-section h3,
+  .frameworks h3,
+  .skills h3 {
+    color: #344563;
+    font-size: 20px;
+    font-weight: 500;
+  }
+
+  .frameworks,
+  .skills {
+    border-bottom: 1px solid #dfe1e6;
+    margin: 12px 0;
+    padding: 12px 0;
   }
 }
 
